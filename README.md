@@ -1,4 +1,4 @@
-Features included : Case changing , clear text , text-to-speech , reverse message , Ceaser cipher feature available to encrypt text for secret communication & text conversion.
+Features included : Case changing , clear text , text-to-speech , reverse message , Bold text , Ceaser cipher feature available to encrypt text for secret communication & text conversion.
 
 Output overview :
 
